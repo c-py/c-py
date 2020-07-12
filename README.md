@@ -6,21 +6,21 @@
 
 ## And using the following tools
 
-1. React
-2. golang
+2. React
+3. golang
 
 ## And I hope to soon use
 
-3. Rust
-4. QEMU
+4. Rust
+5. QEMU
 
 ## And I REALLY like
 
-5. VXLAN
-6. SNMP
-7. inetd
+6. VXLAN
+7. SNMP
+8. inetd
 
 ## I can help you with
 
-8. AWS
-9. Containerisation
+9. AWS
+10. Containerisation
