@@ -1,16 +1,26 @@
-### Hi there 👋
+### c-py
 
-<!--
-**c-py/c-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm currently learning
 
-Here are some ideas to get you started:
+1. DynamoDB Data Modelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## And using the following tools
+
+1. React
+2. golang
+
+## And I hope to soon use
+
+3. Rust
+4. QEMU
+
+## And I REALLY like
+
+5. VXLAN
+6. SNMP
+7. inetd
+
+## I can help you with
+
+8. AWS
+9. Containerisation
